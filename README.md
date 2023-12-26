@@ -1,5 +1,9 @@
 <header>
 
+
+## Local Development
+
+1. Ioen index.html in your browser
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
